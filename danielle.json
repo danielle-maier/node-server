@@ -1,0 +1,23 @@
+{
+  "full-name": "Danielle Elise Maier",
+  "description": "Punk Rock Girl",
+  "kids": [
+    {
+      "name": "Anja",
+      "age": 7,
+      "nickname": "Squirrel"
+    },
+    {
+      "name": "Johnathan",
+      "age": 4,
+      "nickname": "Johnny Robert"
+    }
+  ],
+  "favorites": {
+    "color": "Violet",
+    "number": 42,
+    "sport": "Skiing",
+    "animal": "Gnarwhal",
+    "video": "https://www.youtube.com/watch?v=ZyaK3jo4Sl4"
+  }
+}
