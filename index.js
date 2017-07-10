@@ -1,7 +1,7 @@
 var express = require('express');
 var server = express();
 var dani = require('./danielle.json');
-var port = 8080;
+var port = server.listen(process.env.PORT || 8080);
 
 server.get('/', function (request, response) {
   response.send(`Go to /dani to find out more about me`);
